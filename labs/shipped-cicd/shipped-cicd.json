@@ -11,8 +11,7 @@
     ],
     "tags": [
         {"title": "Shipped"},
-        {"title": "Deployment"},
-	    {"title": "Spark"}
+        {"title": "Deployment"}
     ],
      "related": [
          {
