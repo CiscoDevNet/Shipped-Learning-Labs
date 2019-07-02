@@ -49,6 +49,6 @@
             "title": "Shipped 8 - Deploy Multi-tier App using shipped"
         }
     ],
-    "active": false,
+    "active": true,
     "redirectTo": "cicd-intro"
 }
